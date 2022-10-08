@@ -28,5 +28,7 @@ Recordatorio: Haz uso de Proptypes adecuadamente.
 
 
 / * * Comandos * * /
+
 Yarn 
+
 Yarn dev
