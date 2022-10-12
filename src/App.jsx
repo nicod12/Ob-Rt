@@ -1,14 +1,13 @@
-import TaskListComponent from "./components/containers/task_list"
+import ContactListComponent from "./components/containers/contact_list"
 
-
+import './css/App.css'
 
 
 const App =() => {
 
   return (
     <div className="App">
-      <h1>Bienvenido!</h1>
-      <TaskListComponent />
+      <ContactListComponent />
     </div>
   )
 }
